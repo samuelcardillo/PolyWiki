@@ -1,0 +1,35 @@
+{
+  "name": "PolyWiki",
+  "version": "0.5.0",
+  "description": "PolyWiki is a static markdown language page displayer quickly made on Polymer",
+  "main": "index.html",
+  "keywords": [
+    "static",
+    "page",
+    "website",
+    "blog",
+    "polymer",
+    "markdown"
+  ],
+  "authors": [
+    "Samuel LESPES CARDILLO"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "iron-ajax": "PolymerElements/iron-ajax#1.0.0",
+    "iron-flex-layout": "polymerelements/iron-flex-layout#^1.0.0",
+    "iron-icons": "polymerelements/iron-icons#^1.0.0",
+    "marked-element": "PolymerElements/marked-element#^1.0.0",
+    "paper-drawer-panel": "PolymerElements/paper-drawer-panel#^1.0.0",
+    "paper-header-panel": "PolymerElements/paper-header-panel#^1.0.0",
+    "paper-icon-button": "PolymerElements/paper-icon-button#^1.0.0",
+    "paper-item": "PolymerElements/paper-item#^1.0.0",
+    "paper-material": "PolymerElements/paper-material#^1.0.0",
+    "paper-menu": "PolymerElements/paper-menu#^1.0.0",
+    "paper-styles": "PolymerElements/paper-styles#^1.0.0",
+    "paper-toast": "PolymerElements/paper-toast#^1.0.0",
+    "paper-toolbar": "PolymerElements/paper-toolbar#^1.0.0",
+    "platinum-push-messaging": "PolymerElements/platinum-push-messaging#~1.0.0",
+    "platinum-sw": "PolymerElements/platinum-sw#~1.0.1"
+  }
+}
